@@ -268,6 +268,4 @@ This project's credibility rests on saying plainly what it does and does not do.
 Built by **Team YVL** for the **Multipli Hackathon 2026** (19–20 September, 36 hours). Design and scope
 decisions are recorded in `../Red_Queen_Final_Implementation.md`.
 
-This is a hackathon prototype. The contracts embed deliberate vulnerabilities for demonstration and **must not be
-deployed to any production or value-bearing environment.** No license file is currently included; treat the code
-as all-rights-reserved by the authors pending an explicit license.
+This is a hackathon prototype. The contracts embed deliberate vulnerabilities for demonstration.
